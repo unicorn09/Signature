@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Signature</string>
+    <string name="hint_sign">Get Signature</string>
+    <string name="sign_here_title">Sign Here</string>
+    <string name="hint_cancel">Cancel</string>
+    <string name="hint_clear">Clear</string>
+    <string name="hint_save">Save</string>
+    <string name="bill_details_title">Bill Details</string>
+    <string name="date">Date</string>
+    <string name="date_data">16 Mar 2017</string>
+    <string name="order_no">Order Number</string>
+    <string name="order_no_data">10798565</string>
+    <string name="buyers_name">Buyer\'s Name</string>
+    <string name="buyers_name_data">Umesh</string>
+    <string name="buyers_address">Buyer\'s Address</string>
+    <string name="buyers_address_data">Pratap Nagar</string>
+    <string name="contact_no">Contact Number</string>
+    <string name="contact_no_data">0000000000</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="total_amount_data">Rs 1500</string>
+    <string name="checkbox_text">I have Successfully Received the product</string>
+    <string name="get_signature_text">Get Signature</string>
+</resources>
